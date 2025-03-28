@@ -1,12 +1,11 @@
 import React from 'react'
-import Navbar from './components/Navbar'
-import Home from './components/Home'
+import Menu from './Menu'
+
 
 const App = () => {
   return (
-    <div className='bg-gradient-to-r from-cyan-400 to-blue-500 h-screen p-2 '>
-      <Navbar/>
-      <Home/>
+    <div className='bg-gradient-to-r from-violet-500 to-purple-500 h-full p-2 '>
+      <Menu/>
     </div>
   )
 }

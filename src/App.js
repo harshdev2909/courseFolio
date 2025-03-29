@@ -7,7 +7,7 @@ import Signup from './components/Signup'
 import Course from './components/Course'
 const App = () => {
   return (
-    <div className='bg-gradient-to-r from-violet-500 to-purple-500 h-screen p-2 '>
+    <div className='bg-gradient-to-r from-violet-500 to-purple-500 h-screen p-2'>
       <Navbar/>
       <BrowserRouter>
       <Routes>

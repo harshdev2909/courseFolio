@@ -11,8 +11,8 @@ const Menu = () => {
         {/* <Navbar/>
         <Home/> */}
         {/* <Signup/> */}
-        <Login/>
-        {/* <Course/> */}
+        {/* <Login/> */}
+        <Course/>
     </div>
   )
 }

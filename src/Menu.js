@@ -9,8 +9,8 @@ const Menu = () => {
     <div className='h-screen p-2 '>
         {/* <Navbar/>
         <Home/> */}
-        {/* <Signup/> */}
-        <Course/>
+        <Signup/>
+        {/* <Course/> */}
     </div>
   )
 }
